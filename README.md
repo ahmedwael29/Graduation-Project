@@ -18,7 +18,7 @@ This project aims to assess the quality of roads by utilizing IoT (Internet of T
   - Python (Data analysis and machine learning)
   - React (Frontend development)
   - Flutter (Mobile Application)
-  - SQL (Database)
+  - SQL Server (Database)
 - **Data Analytics:** Machine learning algorithms for predicting road quality trends.
 
 ## System Architecture
