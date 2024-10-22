@@ -1,4 +1,4 @@
-# Road Quality Assessment using IoT Technologies (Graduation Project)
+# Seket El Salama (Graduation Project)
 
 ## Project Overview
 
